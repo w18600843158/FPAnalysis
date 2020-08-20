@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/usr/local/Cellar/llvm/8.0.0_1/bin/clang -DCMAKE_CXX_COMPILER=/usr/local/Cellar/llvm/8.0.0_1/bin/clang++ -G "CodeBlocks - Unix Makefiles" /Users/wangxingwei/gitlab/atomic-condition-master
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/wangxingwei/gitlab/atomic-condition-master/cmake-build-debug
